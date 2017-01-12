@@ -1,0 +1,35 @@
+.header{width:100%;height:46px;background:#292D2F;margin-top:4px;position:absolute;border-bottom:1px solid #57a1a7;}
+.container{margin:auto;}
+.sti-menu{
+    text-shadow: 0 1px 0 #181818;
+    width:962px;
+    position:relative;
+}
+.sti-menu li{
+    float:left;
+    width:120px;
+    height:46px;
+}
+.sti-menu .long{
+    float:left;
+    width:237px;
+    height:46px;
+}
+
+.sti-menu li a{
+    display:block;
+    overflow:hidden;
+    background: #292d2f;
+    text-align:center;
+    height:100%;
+    width:100%;
+    position:relative;outline: none;
+}
+.sti-menu li a h2{
+    color: #e2e281;
+    font-family: 'Lato', Didact Gothic, CenturyGothic, Raleway, sans-serif;
+    font-size:14px;
+    font-weight: 900;
+    position:absolute;
+    width:100%;height:100%;line-height: 44px;top:0;left:0;
+}
